@@ -7,7 +7,7 @@ from colorama import init, Fore
 init()
 
 TLD_LIST_URL = 'https://data.iana.org/TLD/tlds-alpha-by-domain.txt'
-DOMAINS = ['gogoanime']
+DOMAINS = ['gogoanime', 'kimcartoon']
 REQUEST_TIMEOUT = 6
 
 def clear():
